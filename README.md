@@ -308,6 +308,6 @@ tampilan menjadi responsif
 
 #### Langkah 8 Menambahkan halama baru
 ```text
-yang kita like akan tersimpan di sidebar like
+yang kita like akan tersimpan di sidebar like.
 ```
 ![alt text](images/TP4L81.png)
