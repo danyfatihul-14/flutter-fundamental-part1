@@ -208,3 +208,106 @@ run hasil dari main_codelabe.dart
 
 ![alt text](images/TP4L41.png)
 
+```text
+Di bagian bawah lib/main.dart, tambahkan sesuatu pada string di objek Text pertama
+```
+![alt text](images/TP4L42.png)
+
+```text
+menambahkan button next
+```
+![alt text](images/TP4L43.png)
+
+```text
+jika kita klik button next akan menghasilkan acak
+```
+![alt text](images/TP4L44.png)
+
+#### Langkah 5 Memperindah Tampilan Aplikasi
+```text
+lalu menambahkan bigcard
+```
+![alt text](images/TP4L51.png)
+
+```text
+menambahkan kartu
+```
+![alt text](images/TP4L52.png)
+
+```text
+mempercantik hasil dari klik next
+```
+![alt text](images/TP4L53.png)
+
+```text
+memberikan warna hasilnya
+```
+![alt text](images/TP4L54.png)
+
+```text
+memberikan text dan memperbesar text
+```
+![alt text](images/TP4L55.png)
+
+```text
+memberikan text menjadi center
+```
+![alt text](images/TP4L56.png)
+
+```text
+satu padding menjadi tengah tetapi masih dipinggir kiri
+```
+![alt text](images/TP4L57.png)
+
+```text
+satu padding menjadi center
+```
+![alt text](images/TP4L58.png)
+
+```text
+menghilangkan take Awesome dan membersakan hasilnya
+```
+![alt text](images/TP4L59.png)
+
+#### Langkah 6 Menambahkan Fungsi
+```text
+dipindah ke sisi kiri
+```
+![alt text](images/TP4L61.png)
+
+```text
+kembali lagi button next ke center
+```
+![alt text](images/TP4L62.png)
+
+```text
+menambahkan button like dan beserta iconnya
+```
+![alt text](images/TP4L63.png)
+
+#### Langkah 7 Menambahkan Kolom Samping Navigasi
+```text
+menambahkan Sidebar, lalu terdapat home dan like. Dan terdapat background warna kulit untuk isinya.
+``` 
+![alt text](images/TP4L71.png)
+
+```text
+bisa klik button like di sidebar atau sudah bisa pindah saat diklik
+```
+![alt text](images/TP4L72.png)
+
+```text
+saat klik icon yang didalam sidebar isinya akan berubah
+```
+![alt text](images/TP4L73.png)
+
+```text
+tampilan menjadi responsif 
+```
+![alt text](images/TP4L74.png)
+
+#### Langkah 8 Menambahkan halama baru
+```text
+yang kita like akan tersimpan di sidebar like
+```
+![alt text](images/TP4L81.png)
